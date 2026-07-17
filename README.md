@@ -11,4 +11,4 @@ Project is welcoming contributions that may include:
 - Fine-tuning the models
 - Enriching the RAG Database
 
-<img src='./images/logo.png'/>
+<img src='./images/pnsvlogo.png'/>
