@@ -10,3 +10,5 @@ Project is welcoming contributions that may include:
 - Modifying the backend
 - Fine-tuning the models
 - Enriching the RAG Database
+
+<img src='./images/logo.png'/>
