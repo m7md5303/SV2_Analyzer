@@ -8,7 +8,7 @@ The work was published in the first round of the IEEE International Conference o
 
 ### Accessibility
 
-This section discusses the accessibility and licensing of the project. SV2 Analyzer is completely open-source under the MIT License, available on GitHub at [https://github.com/m7md5303/SV2_Analyzer](https://github.com/m7md5303/SV2_Analyzer). The MIT License preserves the author's rights while enabling developability and reachability for engineers and students. The original paper is available on IEEEXplore under the proceedings of the 3SCEA conference at [[https://ieeexplore.ieee.org/document/9876543](https://ieeexplore.ieee.org/document/11602718)]([https://ieeexplore.ieee.org/document/9876543](https://ieeexplore.ieee.org/document/11602718)).
+This section discusses the accessibility and licensing of the project. SV2 Analyzer is completely open-source under the MIT License, available on GitHub at [https://github.com/m7md5303/SV2_Analyzer](https://github.com/m7md5303/SV2_Analyzer). The MIT License preserves the author's rights while enabling developability and reachability for engineers and students. The original paper is available on IEEEXplore under the proceedings of the 3SCEA conference at [https://ieeexplore.ieee.org/document/11602718](https://ieeexplore.ieee.org/document/11602718)).
 
 ### Literature Review
 
